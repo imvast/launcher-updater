@@ -1,15 +1,15 @@
 {
-  "version": "1.3",
+  "version": "v1.3.2",
   "notes": "",
-  "pub_date": "",
+  "pub_date": "2024-12-10T15:13:30Z",
   "platforms": {
     "linux-x86_64": {
       "signature": "",
       "url": ""
     },
     "windows-x86_64": {
-      "signature": "",
-      "url": "https://github.com/imvast/launcher-updater/releases/download/1.3/vast-launcher_0.1.3_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3hjb1BrN2dSZXVYdlk4Z3diUDZjS0pRdTNaVEl5UUh5UVdHc2FzZm1UQUNFVW1FbklIdlI3VitDR2srY0o4cU9OZ050Tm5xRmhRVnRqbzhzVmZyNmpGUXhQTExOZUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMzODQzNDE0CWZpbGU6dmFzdC1sYXVuY2hlcl8xLjMuMl94NjRfZW4tVVMubXNpCjAxUFk5a3c1VjE5TWNFaGM1Z0UvWllIbXN3SUd1Q2NHY3U3bXNlTFFmdi9TRjJwcmFGbE05WG93aGI4cVdJMnZSS1ZJOTB6WHhENEJHMlFUb25JeUFBPT0K",
+      "url": "https://github.com/imvast/launcher-updater/releases/download/testing/vast-launcher_1.3.2_x64_en-US.msi.zip"
     },
     "darwin-x86_64": {
       "signature": "",
