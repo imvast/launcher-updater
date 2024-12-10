@@ -1,5 +1,5 @@
 {
-  "version": "v1.3.2",
+  "version": "v1.3.3",
   "notes": "",
   "pub_date": "2024-12-10T15:13:30Z",
   "platforms": {
@@ -8,7 +8,7 @@
       "url": ""
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3hjb1BrN2dSZXVYdlk4Z3diUDZjS0pRdTNaVEl5UUh5UVdHc2FzZm1UQUNFVW1FbklIdlI3VitDR2srY0o4cU9OZ050Tm5xRmhRVnRqbzhzVmZyNmpGUXhQTExOZUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMzODQzNDE0CWZpbGU6dmFzdC1sYXVuY2hlcl8xLjMuMl94NjRfZW4tVVMubXNpCjAxUFk5a3c1VjE5TWNFaGM1Z0UvWllIbXN3SUd1Q2NHY3U3bXNlTFFmdi9TRjJwcmFGbE05WG93aGI4cVdJMnZSS1ZJOTB6WHhENEJHMlFUb25JeUFBPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3hjb1BrN2dSZXRCYXRTTnJWMjVGcHZCdVorbXBxSTZNQStGZC91VW9JcmtYc0RoOU5zZW4zTVBEckpYdEM5UXF1UU4xVTVxYUVBZ3oxVytnVGFnRVdMbzlMU21DS3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMzODQzNzk4CWZpbGU6dmFzdC1sYXVuY2hlcl8xLjMuM194NjRfZW4tVVMubXNpCmxRUFN4MzhGNVdhTWNRbytIQUx1aVVSOGxuUUtibk9FeDNMQ3lDRkw1Q013eUlzYTBMYVZCQUNLVkhqMFhXWDFsSDJVSnE5b2Z6ekhBRVYwVzArZUFnPT0K",
       "url": "https://github.com/imvast/launcher-updater/releases/download/testing/vast-launcher_1.3.2_x64_en-US.msi.zip"
     },
     "darwin-x86_64": {
