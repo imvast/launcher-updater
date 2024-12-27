@@ -8,8 +8,8 @@
       "url": ""
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3hjb1BrN2dSZXRCYXRTTnJWMjVGcHZCdVorbXBxSTZNQStGZC91VW9JcmtYc0RoOU5zZW4zTVBEckpYdEM5UXF1UU4xVTVxYUVBZ3oxVytnVGFnRVdMbzlMU21DS3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMzODQzNzk4CWZpbGU6dmFzdC1sYXVuY2hlcl8xLjMuM194NjRfZW4tVVMubXNpCmxRUFN4MzhGNVdhTWNRbytIQUx1aVVSOGxuUUtibk9FeDNMQ3lDRkw1Q013eUlzYTBMYVZCQUNLVkhqMFhXWDFsSDJVSnE5b2Z6ekhBRVYwVzArZUFnPT0K",
-      "url": "https://github.com/imvast/launcher-updater/releases/download/testing/vast-launcher_1.3.2_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3hjb1BrN2dSZWtTU1dubEd5bDhiN2lUMmJ5dlRBUFk0bGswaDdpdmZUVm5DeUFTdER4SkFTRWVEa09RMmZzdXkzcmhrWmNqdVcwWWVjNkRhZXcxTEkzMW9hYURVT0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM1MzE3Nzk1CWZpbGU6VmFzdExhdW5jaGVyXzEuNC44X3g2NF9lbi1VUy5tc2kKa3RDRVN5UVQ4eHlTVkRTTGJQRDFsN3pnUWRaWTQ4Uk5xU0JEMU1aZWhLWmFObWJIRGtpUk53cnNYOUE0RHNIdFBWWE9MdEZKYjlza1NrclkwTzBVQWc9PQo=",
+      "url": "https://github.com/imvast/launcher-updater/releases/download/1.4.8/VastLauncher_1.4.8_x64_en-US.msi"
     },
     "darwin-x86_64": {
       "signature": "",
